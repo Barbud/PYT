@@ -1,6 +1,6 @@
 ## 1.记录每天做过的项目，看能不能发发财
 
-推特：https://twitter.com/NiuDaLi2040
+推特：https://twitter.com/niudali2040
 
 ```shell
 //                          _ooOoo_                               //
